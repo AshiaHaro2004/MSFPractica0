@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema respiratorio simplificado'
+message: Modelado de sistemas fisiologicos
+type: software
+authors:
+  - given-names: Angelica Ashia
+    name-particle: Haro Najar
+    email: l23210708@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/AshiaHaro2004/MSFPractica0'
+    description: Repositorio Github
+repository-code: 'https://github.com/AshiaHaro2004/MSFPractica0'
+keywords:
+  - Sistema respiratorio
+  - Circuito RLC
+  - Controlador PID
+  - Modelo Matematico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
